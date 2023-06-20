@@ -1,0 +1,11 @@
+#! /bin/bash
+
+name=Nikita
+age=20
+city=rourkela
+
+echo "My name  is ${name}....."
+echo "my age is ${age}........"
+echo "I am from  ${city}......"
+
+exit 0
